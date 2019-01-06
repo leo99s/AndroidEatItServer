@@ -1,0 +1,552 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\112be4c8e84a3dccf85e434631b20120\AndroidManifest.xml:17:1-24:12
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:2:1-19:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\7270beb9914c164e9b4b333b0de2ddb2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\237d3f826afd603a5f073feeb5b7263e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1ca9af581fbe89d68ff2cf4b6888f761\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\3fe4ffc570d4c8eb9be77ccaa0e1650d\AndroidManifest.xml:2:1-9:12
+MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\fbutton-1.0.5.aar\e2f5969076b24a17e8093d1c28bda7bf\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\509af7fc0203a8fcc2da10874cad0413\AndroidManifest.xml:18:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.5.aar\e4a79878866c9bcb09a88b9615c76f55\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:17:1-42:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\90f51683329376300f4f68470589038c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\257753f3aaf91b88ca41b5eab03d890e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\1c5e4a37580be9fa1e38c77a196811ae\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.5.aar\e2c3c5223e1feca9b3cd7d200830ec32\AndroidManifest.xml:15:1-25:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8d73081039cecc3dafc022beb894d719\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7799952917e642deeff46b4f2a30632b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\0b17b32a2d470ce312b64e904a2ef557\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\835419c326c3b87081b0996f9838121d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1668d035115a9e9a2801dcf898c7d5f9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\0f44db3b3fd34c693f46de02a1dc70d9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0aaa549e2e75065fa2dc42c81bae56cc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\5b6ee5c268311173584403d4233aec1b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\9dbc7688373a6df46e6a36a289210a12\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\499e05d348576a15b2381e5471810169\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\3a14fc531c6845bd9f79281eb74bd715\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\2a70bb94603ec7d07b6141f2a1c6ba90\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\04f2fa73ead397c135caa11a99d8e8d1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\411f293001b2280e3b3eb86b8d9f057a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\22740c83928873bd418c3a06e6d64e2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a8548844e0202d60be822890f17c9e33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4142c5f31730727a23ccd3f269a17322\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dbb82c8a72677b1be3bf2d3c82957d40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bf09eeb6f4fa3bbf899e0027dd176fcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\468c1f7b2f0c42a863f5dd0f1bfc5aac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3f826b9da862e3bb87cc120a43b6c452\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9229eea0412db3bcdc4f8490dd57e525\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9307c32a2c1ece8539d084153d198080\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\18bd58c0647b25879c6db9902a6b9eac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ffba6b369559570e1b714e813d1263cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6ef28a42b836b20b7dfb3397e8ccccb7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78961621d5f5385f2bd9537c75b6e3a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0077b378345a51cef67594bcc1c457a4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b8373428438e75afb57a92fab6e3010\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f469522fb5929f14580bb0bcdc62b97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d5c6fd166bb3d30458f06dd17af08953\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ef94eafbd192ec9d37edc7d56329c7b4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\18c48567500db26bfeb3c144769be88a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bbe7bf770b450d25dc45485b34736c51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\75166c2de3e289bd64c37d4734d28f8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7d33179600530fde916279c841d7afed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ccd6459d35937f4833bd0e6a628ccda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de647491810135e8e27365a9a02b9ada\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\7d6336a20b42a236be9f59a70df5d351\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:12:5-48:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\112be4c8e84a3dccf85e434631b20120\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\112be4c8e84a3dccf85e434631b20120\AndroidManifest.xml:22:5-20
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1ca9af581fbe89d68ff2cf4b6888f761\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1ca9af581fbe89d68ff2cf4b6888f761\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\3fe4ffc570d4c8eb9be77ccaa0e1650d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\3fe4ffc570d4c8eb9be77ccaa0e1650d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\1c5e4a37580be9fa1e38c77a196811ae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\1c5e4a37580be9fa1e38c77a196811ae\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\0b17b32a2d470ce312b64e904a2ef557\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\0b17b32a2d470ce312b64e904a2ef557\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\835419c326c3b87081b0996f9838121d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\835419c326c3b87081b0996f9838121d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1668d035115a9e9a2801dcf898c7d5f9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1668d035115a9e9a2801dcf898c7d5f9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\0f44db3b3fd34c693f46de02a1dc70d9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\0f44db3b3fd34c693f46de02a1dc70d9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0aaa549e2e75065fa2dc42c81bae56cc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0aaa549e2e75065fa2dc42c81bae56cc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\5b6ee5c268311173584403d4233aec1b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\5b6ee5c268311173584403d4233aec1b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\9dbc7688373a6df46e6a36a289210a12\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\9dbc7688373a6df46e6a36a289210a12\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\499e05d348576a15b2381e5471810169\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\499e05d348576a15b2381e5471810169\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\3a14fc531c6845bd9f79281eb74bd715\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\3a14fc531c6845bd9f79281eb74bd715\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\2a70bb94603ec7d07b6141f2a1c6ba90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\2a70bb94603ec7d07b6141f2a1c6ba90\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\04f2fa73ead397c135caa11a99d8e8d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\04f2fa73ead397c135caa11a99d8e8d1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78961621d5f5385f2bd9537c75b6e3a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78961621d5f5385f2bd9537c75b6e3a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0077b378345a51cef67594bcc1c457a4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0077b378345a51cef67594bcc1c457a4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78961621d5f5385f2bd9537c75b6e3a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:18:9-40
+activity#ensa.dev.androideatitserver.MainActivity
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:23:27-74
+activity#ensa.dev.androideatitserver.SignIn
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:26:19-41
+activity#ensa.dev.androideatitserver.Home
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:27:9-30:47
+	android:label
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:29:13-56
+	android:theme
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:28:13-33
+activity#ensa.dev.androideatitserver.FoodList
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:31:9-46
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:31:19-43
+activity#ensa.dev.androideatitserver.OrderStatus
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:32:9-49
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:32:19-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:41:9-43:55
+	android:value
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:42:13-58
+activity#ensa.dev.androideatitserver.TrackingOrder
+ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:45:9-47:78
+	android:label
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml:46:13-42
+uses-sdk
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\112be4c8e84a3dccf85e434631b20120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\112be4c8e84a3dccf85e434631b20120\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\7270beb9914c164e9b4b333b0de2ddb2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\7270beb9914c164e9b4b333b0de2ddb2\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\237d3f826afd603a5f073feeb5b7263e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\237d3f826afd603a5f073feeb5b7263e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1ca9af581fbe89d68ff2cf4b6888f761\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\1ca9af581fbe89d68ff2cf4b6888f761\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\3fe4ffc570d4c8eb9be77ccaa0e1650d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\3fe4ffc570d4c8eb9be77ccaa0e1650d\AndroidManifest.xml:5:5-44
+MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\fbutton-1.0.5.aar\e2f5969076b24a17e8093d1c28bda7bf\AndroidManifest.xml:7:5-9:41
+MERGED from [info.hoang8f:fbutton:1.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\fbutton-1.0.5.aar\e2f5969076b24a17e8093d1c28bda7bf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\509af7fc0203a8fcc2da10874cad0413\AndroidManifest.xml:21:5-23:41
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\material-spinner-1.1.0.aar\509af7fc0203a8fcc2da10874cad0413\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.5.aar\e4a79878866c9bcb09a88b9615c76f55\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.5.aar\e4a79878866c9bcb09a88b9615c76f55\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\90f51683329376300f4f68470589038c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\90f51683329376300f4f68470589038c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\257753f3aaf91b88ca41b5eab03d890e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\257753f3aaf91b88ca41b5eab03d890e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\1c5e4a37580be9fa1e38c77a196811ae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.6.aar\1c5e4a37580be9fa1e38c77a196811ae\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.5.aar\e2c3c5223e1feca9b3cd7d200830ec32\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.5.aar\e2c3c5223e1feca9b3cd7d200830ec32\AndroidManifest.xml:18:5-20:41
+MERGED from [com.android.support:transition:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8d73081039cecc3dafc022beb894d719\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\8d73081039cecc3dafc022beb894d719\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7799952917e642deeff46b4f2a30632b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\7799952917e642deeff46b4f2a30632b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\0b17b32a2d470ce312b64e904a2ef557\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.1.aar\0b17b32a2d470ce312b64e904a2ef557\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\835419c326c3b87081b0996f9838121d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-api-16.0.4.aar\835419c326c3b87081b0996f9838121d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1668d035115a9e9a2801dcf898c7d5f9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\1668d035115a9e9a2801dcf898c7d5f9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\0f44db3b3fd34c693f46de02a1dc70d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\0f44db3b3fd34c693f46de02a1dc70d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0aaa549e2e75065fa2dc42c81bae56cc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\0aaa549e2e75065fa2dc42c81bae56cc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\5b6ee5c268311173584403d4233aec1b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.5.aar\5b6ee5c268311173584403d4233aec1b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\9dbc7688373a6df46e6a36a289210a12\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\9dbc7688373a6df46e6a36a289210a12\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\499e05d348576a15b2381e5471810169\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\499e05d348576a15b2381e5471810169\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\3a14fc531c6845bd9f79281eb74bd715\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\3a14fc531c6845bd9f79281eb74bd715\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\2a70bb94603ec7d07b6141f2a1c6ba90\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\2a70bb94603ec7d07b6141f2a1c6ba90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\04f2fa73ead397c135caa11a99d8e8d1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\04f2fa73ead397c135caa11a99d8e8d1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\411f293001b2280e3b3eb86b8d9f057a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\411f293001b2280e3b3eb86b8d9f057a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\22740c83928873bd418c3a06e6d64e2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\22740c83928873bd418c3a06e6d64e2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a8548844e0202d60be822890f17c9e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a8548844e0202d60be822890f17c9e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4142c5f31730727a23ccd3f269a17322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\4142c5f31730727a23ccd3f269a17322\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dbb82c8a72677b1be3bf2d3c82957d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dbb82c8a72677b1be3bf2d3c82957d40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bf09eeb6f4fa3bbf899e0027dd176fcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bf09eeb6f4fa3bbf899e0027dd176fcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\468c1f7b2f0c42a863f5dd0f1bfc5aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\468c1f7b2f0c42a863f5dd0f1bfc5aac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3f826b9da862e3bb87cc120a43b6c452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3f826b9da862e3bb87cc120a43b6c452\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9229eea0412db3bcdc4f8490dd57e525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9229eea0412db3bcdc4f8490dd57e525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9307c32a2c1ece8539d084153d198080\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\9307c32a2c1ece8539d084153d198080\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\18bd58c0647b25879c6db9902a6b9eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\18bd58c0647b25879c6db9902a6b9eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ffba6b369559570e1b714e813d1263cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\ffba6b369559570e1b714e813d1263cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6ef28a42b836b20b7dfb3397e8ccccb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6ef28a42b836b20b7dfb3397e8ccccb7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78961621d5f5385f2bd9537c75b6e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b78961621d5f5385f2bd9537c75b6e3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0077b378345a51cef67594bcc1c457a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\0077b378345a51cef67594bcc1c457a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b8373428438e75afb57a92fab6e3010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\3b8373428438e75afb57a92fab6e3010\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f469522fb5929f14580bb0bcdc62b97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0f469522fb5929f14580bb0bcdc62b97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d5c6fd166bb3d30458f06dd17af08953\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\d5c6fd166bb3d30458f06dd17af08953\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ef94eafbd192ec9d37edc7d56329c7b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\ef94eafbd192ec9d37edc7d56329c7b4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\18c48567500db26bfeb3c144769be88a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\18c48567500db26bfeb3c144769be88a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bbe7bf770b450d25dc45485b34736c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\bbe7bf770b450d25dc45485b34736c51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\75166c2de3e289bd64c37d4734d28f8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\75166c2de3e289bd64c37d4734d28f8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7d33179600530fde916279c841d7afed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\7d33179600530fde916279c841d7afed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ccd6459d35937f4833bd0e6a628ccda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2ccd6459d35937f4833bd0e6a628ccda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de647491810135e8e27365a9a02b9ada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\de647491810135e8e27365a9a02b9ada\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\7d6336a20b42a236be9f59a70df5d351\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\7d6336a20b42a236be9f59a70df5d351\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HP GAMER\AndroidStudioProjects\AndroidEatItServer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.5.aar\e4a79878866c9bcb09a88b9615c76f55\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.5.aar\e4a79878866c9bcb09a88b9615c76f55\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.5.aar\e2c3c5223e1feca9b3cd7d200830ec32\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.5.aar\e2c3c5223e1feca9b3cd7d200830ec32\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:11:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\2a70bb94603ec7d07b6141f2a1c6ba90\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\2a70bb94603ec7d07b6141f2a1c6ba90\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\49321ce95e1e6a337bd09b63b774f112\AndroidManifest.xml:15:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.5.aar\e4a79878866c9bcb09a88b9615c76f55\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.5.aar\e4a79878866c9bcb09a88b9615c76f55\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.5.aar\e2c3c5223e1feca9b3cd7d200830ec32\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.5.aar\e2c3c5223e1feca9b3cd7d200830ec32\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.0.0.aar\1d16789afb06bb10f0045152b62c3756\AndroidManifest.xml:28:9-32
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.1.0.aar\8fbc08b21b61e8812245155c595c2311\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-17.0.4.aar\c7d519403f92214b20dc6cee4796904e\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.2.4.aar\0ad2509129e585b5a425f705bdd39c32\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.6.aar\353e86b7084bdbdd0cd9e6cdd25f7af0\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.3.aar\c025724517cc948704fe13e1a89d5a4d\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\6c4c310f951d86060f4bd3727b827ec5\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.4.aar\e97812df9e0e2e6d3fdcbbc734ecaadf\AndroidManifest.xml:11:13-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\04f2fa73ead397c135caa11a99d8e8d1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\04f2fa73ead397c135caa11a99d8e8d1\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\HP GAMER\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7263ab854c8ff92547bbce8abad5be30\AndroidManifest.xml:27:13-51
